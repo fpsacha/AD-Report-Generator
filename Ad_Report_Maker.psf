@@ -530,7 +530,7 @@ function Update-ListBox
 		Update-ListBox $listBox1 (Get-Process) "ProcessName"
 	
 	.NOTES
-		Additional information about the function.
+		Additional information about the function. ok
 #>
 	
 	param
